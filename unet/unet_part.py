@@ -3,7 +3,7 @@
 Author:王涛
 Email:15608099197@163.com
 date：2020.11.16
-脚本功能：
+脚本功能：实现Unet网络的砖块
 '''
 """ Parts of the U-Net model """
 
